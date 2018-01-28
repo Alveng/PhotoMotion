@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  PhotoMotion
+
+  Created by Sergey Klimov on 27.01.2018.
+  Copyright © 2018 Sergey Klimov. All rights reserved.
+*/
+
+
+"pitch" = "Наклон";
+"yaw" = "Поворот";
+"roll" = "Вращение";

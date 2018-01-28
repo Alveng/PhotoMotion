@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Take Photo"; ObjectID = "bhN-vZ-unI"; */
+"bhN-vZ-unI.normalTitle" = "Сделать фото";
+
+/* Class = "UIButton"; normalTitle = "Repeat"; ObjectID = "kq8-1u-y1O"; */
+"kq8-1u-y1O.normalTitle" = "Повторить";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "lZk-CT-Ptx"; */
+"lZk-CT-Ptx.normalTitle" = "Начать";
+
+/* Class = "UIButton"; normalTitle = "Snap"; ObjectID = "suH-ld-AhV"; */
+"suH-ld-AhV.normalTitle" = "Фото";
